@@ -99,7 +99,7 @@ This solution scrollbar styles:
 
 ### Useful resources
 
-- [Understanding flex-grow, flex-shrink, and flex-basis.](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/){:target="_blank"}
+- [Understanding flex-grow, flex-shrink, and flex-basis.](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/)
 - [The Current State of Styling Scrollbars](https://css-tricks.com/the-current-state-of-styling-scrollbars/).
 
 ## Author
